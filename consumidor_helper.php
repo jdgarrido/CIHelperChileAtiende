@@ -1,7 +1,7 @@
 <?php
 //permite consumir fichas desde plataforma ChileAtiende mediante la API
 /*
- * Obtiene un servicio
+ * Obtiene un servicio desde chileatiende
  * https://www.chileatiende.cl/desarrolladores/servicios_obtener
  */
 function APIServicio($idServicio) {
